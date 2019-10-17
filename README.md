@@ -9,5 +9,5 @@ https://github.com/speedhot/Deep-Learning-/blob/master/NN_simple_low_level_mnist
 https://github.com/speedhot/Deep-Learning-/blob/master/NN_simple_on_fashion_mnist.ipynb
 
 4. Low-Level Development of Simple Convolutional Neural Network to classify MNIST hand Written Digits
-
+https://github.com/speedhot/Deep-Learning-/blob/master/CNN_1_basic_low_level_convolution_neural_network_practice_on_MNIST_handwritten_digits.ipynb
 
