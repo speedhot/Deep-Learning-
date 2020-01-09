@@ -1,5 +1,5 @@
 # Deep-Learning-Introduction with Tensorflow 2.0.0 beta1 on MNIST Hand-written digits and Fashion MNIST Datasets
-Initial to advanced Deep Learning Practice,
+Initial to Advanced Deep Learning Practice,
 1. Linear and Logistic Regression with Tensorflow 2.0.0-beta1 for classifying mnist hand-written digits dataset https://github.com/speedhot/Deep-Learning-/tree/basics-DL 
 
 2. Low-Level Development of Simple Neural Network to classify MNIST hand Written Digits
